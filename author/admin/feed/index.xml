@@ -8,24 +8,32 @@
 	>
 
 <channel>
-	<title>admin - Pool Builder USA</title>
+	<title>admin</title>
 	<atom:link href="/author/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 10 Aug 2024 19:13:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 26 Aug 2024 02:41:22 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/08/Desain_tanpa_judul__11_-removebg-preview-150x150.png</url>
+	<title>admin</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Crafting Captivating Headlines: Your awesome post title goes here</title>
 		<link>/post-1/</link>
 					<comments>/post-1/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 10 Aug 2024 19:13:55 +0000</pubDate>
+		<pubDate>Mon, 26 Aug 2024 02:41:19 +0000</pubDate>
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/post-1/</guid>
 
@@ -65,7 +73,7 @@
 					<comments>/post-2/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 10 Aug 2024 19:13:55 +0000</pubDate>
+		<pubDate>Mon, 26 Aug 2024 02:41:19 +0000</pubDate>
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/post-2/</guid>
 
@@ -105,7 +113,7 @@
 					<comments>/post-3/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Sat, 10 Aug 2024 19:13:55 +0000</pubDate>
+		<pubDate>Mon, 26 Aug 2024 02:41:19 +0000</pubDate>
 				<category><![CDATA[General]]></category>
 		<guid isPermaLink="false">/post-3/</guid>
 
